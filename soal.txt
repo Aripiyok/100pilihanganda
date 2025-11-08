@@ -1,0 +1,799 @@
+Siapa penemu Python?
+Guido van Rossum
+Dennis Ritchie
+James Gosling
+Linus Torvalds
+BENAR=A
+---
+
+Ibu kota Indonesia?
+Jakarta
+Surabaya
+Bandung
+Medan
+BENAR=A
+---
+
+2 + 5 × 2 = ?
+10
+12
+14
+20
+BENAR=B
+---
+
+Sila pertama Pancasila adalah?
+Kemanusiaan yang Adil dan Beradab
+Ketuhanan Yang Maha Esa
+Keadilan Sosial
+Persatuan Indonesia
+BENAR=B
+---
+
+Tahun berapa proklamasi kemerdekaan Indonesia?
+1942
+1943
+1945
+1950
+BENAR=C
+---
+
+15 × 4 = ?
+45
+50
+55
+60
+BENAR=B
+---
+
+Sinonim kata "indah" adalah?
+Cantik
+Kusam
+Buruk
+Kecil
+BENAR=A
+---
+
+Kerajaan Majapahit berdiri pada abad ke?
+10
+11
+13
+15
+BENAR=C
+---
+
+Sungai terpanjang di Indonesia?
+Kapuas
+Mahakam
+Musi
+Citarum
+BENAR=A
+---
+
+Lambang sila kelima Pancasila adalah?
+Bintang
+Rantai
+Kepala Banteng
+Padi dan Kapas
+BENAR=D
+---
+
+120 : 6 = ?
+10
+15
+18
+20
+BENAR=B
+---
+
+Penjajah pertama yang datang ke Indonesia?
+Portugis
+Belanda
+Inggris
+Jepang
+BENAR=A
+---
+
+Antonim kata "mahal"?
+Besar
+Murah
+Sedikit
+Berat
+BENAR=B
+---
+
+Benua terbesar di dunia?
+Afrika
+Asia
+Eropa
+Australia
+BENAR=B
+---
+
+Rumus luas segitiga?
+s × s
+πr²
+½ × a × t
+p × l
+BENAR=C
+---
+
+Tokoh perumus Pancasila?
+Moh. Hatta
+Soekarno
+Tan Malaka
+Sutan Sjahrir
+BENAR=B
+---
+
+Candi Borobudur dibangun oleh?
+Kerajaan Mataram Lama
+Kerajaan Sriwijaya
+Kerajaan Mataram Islam
+Kerajaan Singhasari
+BENAR=A
+---
+
+Kalimat efektif adalah?
+Saya pergi ke sekolah setiap hari.
+Saya setiap hari jika bisa pergi sekolah.
+Pergi saya sekolah setiap hari.
+Sekolah saya pergi tiap hari.
+BENAR=A
+---
+
+Iklim di Indonesia termasuk?
+Tropis
+Subtropis
+Kutub
+Gurun
+BENAR=A
+---
+
+250 – 75 = ?
+165
+170
+175
+180
+BENAR=C
+---
+
+ASEAN berdiri pada tahun?
+1963
+1965
+1967
+1970
+BENAR=C
+---
+
+12² = ?
+124
+122
+144
+112
+BENAR=C
+---
+
+Bunyi sila kedua Pancasila?
+Persatuan Indonesia
+Kemanusiaan yang Adil dan Beradab
+Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan
+Ketuhanan Yang Maha Esa
+BENAR=B
+---
+
+Pahlawan dari Aceh?
+Pattimura
+Cut Nyak Dien
+Diponegoro
+Imam Bonjol
+BENAR=B
+---
+
+Antonim kata "tinggi"?
+Panjang
+Tajam
+Rendah
+Kuat
+BENAR=C
+---
+
+Negara dengan jumlah penduduk terbanyak?
+Tiongkok
+India
+Amerika Serikat
+Indonesia
+BENAR=A
+---
+
+50% dari 300 adalah?
+100
+120
+150
+180
+BENAR=C
+---
+
+Lambang sila pertama?
+Bintang
+Rantai
+Kepala Banteng
+Padi dan Kapas
+BENAR=A
+---
+
+Pencipta lagu Indonesia Raya?
+Ismail Marzuki
+Ibu Sud
+Kusbini
+WR Supratman
+BENAR=D
+---
+
+Sinonim kata "rajin"?
+Malas
+Tekun
+Lambat
+Sombong
+BENAR=B
+---
+
+Gunung tertinggi di Indonesia?
+Kerinci
+Puncak Jaya
+Rinjani
+Semeru
+BENAR=B
+---
+
+9 × 8 = ?
+60
+64
+70
+72
+BENAR=D
+---
+
+Negara anggota ASEAN?
+Thailand
+Jepang
+Korea Selatan
+India
+BENAR=A
+---
+
+Candi Prambanan bercorak?
+Buddha
+Hindu
+Konghucu
+Animisme
+BENAR=B
+---
+
+Kata baku dari "kwalitas"?
+Kwelitas
+Kewalitas
+Kualitas
+Kwaliti
+BENAR=C
+---
+
+Ibu kota Australia?
+Canberra
+Sydney
+Perth
+Brisbane
+BENAR=A
+---
+
+3³ = ?
+9
+18
+27
+36
+BENAR=C
+---
+
+Sila keempat berbunyi?
+Ketuhanan Yang Maha Esa
+Persatuan Indonesia
+Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan
+Keadilan Sosial
+BENAR=C
+---
+
+Proklamator Indonesia?
+Pattimura
+Soekarno–Hatta
+Diponegoro
+Kartini
+BENAR=B
+---
+
+Antonim kata "keras"?
+Kuat
+Besar
+Cepat
+Lembut
+BENAR=D
+---
+
+Perang Diponegoro terjadi tahun?
+1825–1830
+1800–1815
+1850–1855
+1900–1905
+BENAR=A
+---
+
+24 : 3 = ?
+6
+7
+8
+9
+BENAR=C
+---
+
+Negara yang berbatasan dengan Indonesia?
+Brasil
+Mesir
+Malaysia
+Turki
+BENAR=C
+---
+
+Pencipta lagu Indonesia Raya?
+Cornel Simanjuntak
+WR Supratman
+Iwan Fals
+Kusbini
+BENAR=B
+---
+
+Kohesi sosial berarti?
+Keutuhan masyarakat
+Kesombongan
+Ketidakadilan
+Perpecahan
+BENAR=A
+---
+
+Rempah-rempah dari Maluku?
+Pala & Cengkih
+Teh
+Tembakau
+Kopi
+BENAR=A
+---
+
+1000 – 450 = ?
+500
+550
+600
+650
+BENAR=B
+---
+
+Iklim Indonesia?
+Kutub
+Subtropis
+Gurun
+Tropis
+BENAR=D
+---
+
+Bahasa Indonesia ditetapkan tahun?
+1908
+1945
+1928
+1930
+BENAR=C
+---
+
+Sinonim kata "jauh"?
+Renggang
+Dekat
+Kecil
+Mahal
+BENAR=A
+---
+
+Sumpah Pemuda terjadi pada tahun?
+1928
+1935
+1940
+1945
+BENAR=A
+---
+
+7 × 11 = ?
+66
+70
+75
+77
+BENAR=D
+---
+
+Lambang sila keempat?
+Pohon Beringin
+Rantai
+Kepala Banteng
+Padi dan Kapas
+BENAR=C
+---
+
+Kerajaan Sriwijaya berada di?
+Bali
+Sumatra Selatan
+Kalimantan
+Jawa Timur
+BENAR=B
+---
+
+Antonim kata "cepat"?
+Pantang
+Keras
+Lambat
+Tinggi
+BENAR=C
+---
+
+Ibu kota Jepang?
+Tokyo
+Osaka
+Kyoto
+Nagoya
+BENAR=A
+---
+
+⅓ dari 90 adalah?
+25
+28
+35
+30
+BENAR=D
+---
+
+Gunung Merapi berada di?
+Jawa Barat
+Jawa Tengah
+Bali
+Sumatra
+BENAR=B
+---
+
+Presiden Indonesia ketiga?
+Soeharto
+BJ Habibie
+Megawati
+Gus Dur
+BENAR=D
+---
+
+Kata baku dari "aktifitas"?
+Aktifitas
+Acktivitas
+Aktivitas
+Aktifites
+BENAR=C
+---
+
+Kerajaan Islam pertama di Indonesia?
+Demak
+Banten
+Gowa
+Samudra Pasai
+BENAR=D
+---
+
+45 + 55 = ?
+90
+100
+110
+120
+BENAR=B
+---
+
+Contoh norma agama adalah?
+Tidak membuang sampah
+Membayar pajak
+Berdoa kepada Tuhan
+Mengikuti rapat
+BENAR=C
+---
+
+Ibu kota Inggris?
+Berlin
+Paris
+London
+Madrid
+BENAR=C
+---
+
+Sinonim "hangat"?
+Dingin
+Sejuk
+Beku
+Panas
+BENAR=B
+---
+
+Sumber daya alam yang dapat diperbarui?
+Batu bara
+Minyak bumi
+Hutan
+Gas alam
+BENAR=C
+---
+
+6! = ?
+60
+180
+360
+720
+BENAR=D
+---
+
+Perjanjian Linggarjati ditandatangani pada?
+1946
+1947
+1948
+1949
+BENAR=B
+---
+
+Antonim "lebar"?
+Tinggi
+Luas
+Sempit
+Tebal
+BENAR=C
+---
+
+Ciri teks deskripsi?
+Berisi fakta ilmiah
+Menyatakan pendapat
+Menjelaskan proses
+Menggambarkan secara detail
+BENAR=D
+---
+
+Danau terbesar di Indonesia?
+Toba
+Singkarak
+Sentani
+Tempe
+BENAR=A
+---
+
+5² + 10 = ?
+25
+30
+33
+35
+BENAR=D
+---
+
+Hari Lahir Pancasila?
+17 Agustus
+1 Juni
+10 November
+2 Mei
+BENAR=B
+---
+
+Organisasi pemuda dalam Sumpah Pemuda?
+Jong Java
+Jong Turkish
+Jong Roman
+Jong Negara
+BENAR=A
+---
+
+Sinonim "gembira"?
+Bahagia
+Sedih
+Muram
+Cemas
+BENAR=A
+---
+
+Mata uang Korea Selatan?
+Yen
+Won
+Yuan
+Ringgit
+BENAR=B
+---
+
+180 : 12 = ?
+10
+12
+15
+18
+BENAR=C
+---
+
+Penjajah terakhir Indonesia?
+Inggris
+Belanda
+Portugis
+Jepang
+BENAR=D
+---
+
+Kata baku "ijin"?
+Izin
+Ijin
+Izinn
+Izen
+BENAR=A
+---
+
+Contoh SDA mineral?
+Angin
+Air
+Matahari
+Batu Bara
+BENAR=D
+---
+
+Benua terkecil?
+Afrika
+Asia
+Australia
+Eropa
+BENAR=C
+---
+
+13 × 3 = ?
+36
+39
+42
+45
+BENAR=B
+---
+
+Lambang sila kedua?
+Rantai
+Bintang
+Pohon Beringin
+Padi dan Kapas
+BENAR=A
+---
+
+Perang Padri terjadi di?
+Bali
+Jawa Timur
+Sumatra Barat
+Kalimantan Timur
+BENAR=C
+---
+
+Antonim "manis"?
+Getir
+Asin
+Pahit
+Tawar
+BENAR=B
+---
+
+Struktur teks eksposisi?
+Tesis – Argumen – Penegasan
+Orientasi – Komplikasi – Resolusi
+Umum – Penjelas
+Abstrak – Orientasi – Krisis
+BENAR=A
+---
+
+500 – 123 = ?
+300
+350
+377
+400
+BENAR=C
+---
+
+Pusat perdagangan masa kerajaan Malaka?
+Sungai Musi
+Selat Sunda
+Selat Malaka
+Teluk Benggala
+BENAR=C
+---
+
+Tokoh pendidikan Indonesia?
+Ki Hajar Dewantara
+RA Kartini
+Soekarno
+Sudirman
+BENAR=A
+---
+
+Ciri iklim gurun?
+Curah hujan tinggi
+Curah hujan sangat rendah
+Banyak awan
+Suhu selalu dingin
+BENAR=B
+---
+
+75% dari 200 adalah?
+100
+120
+150
+175
+BENAR=C
+---
+
+Organisasi kebangkitan nasional pertama?
+Budi Utomo
+PPP
+VOC
+KNIL
+BENAR=A
+---
+
+Sungai Nil berada di benua?
+Asia
+Australia
+Amerika
+Afrika
+BENAR=D
+---
+
+Sinonim "pahit"?
+Getir
+Asin
+Basah
+Enak
+BENAR=A
+---
+
+9² = ?
+79
+81
+91
+99
+BENAR=B
+---
+
+Negara berkembang di Asia Tenggara?
+Singapura
+Brunei
+Jepang
+Indonesia
+BENAR=D
+---
+
+Lambang sila ketiga?
+Bintang
+Pohon Beringin
+Rantai
+Kepala Banteng
+BENAR=B
+---
+
+Candi Hindu terbesar di Indonesia?
+Borobudur
+Mendut
+Prambanan
+Muara Takus
+BENAR=C
+---
+
+Kata baku "kwalitas"?
+Kualitas
+Kwalitas
+Kwualitas
+Kwolitas
+BENAR=A
+---
+
+Hasil utama pertanian Indonesia?
+Tembaga
+Minyak bumi
+Batu Bara
+Padi
+BENAR=D
+---
